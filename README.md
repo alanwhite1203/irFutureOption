@@ -91,4 +91,10 @@ Buy Sell	Buy
 
 
 Reference:
-https://finpricing.com/lib/EqWarrant.html
+
+https://finpricing.com/lib/EqRainbow.html
+
+https://bitbucket.org/cmrm11/irfutureoption/downloads/IrFutureOption-35.pdf
+
+
+
